@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [scripts]
+jupyterlab = "jupyter lab"
+notebook = "jupyter notebook"
 
 [packages]
 jupyterlab = "==3.5.2"
