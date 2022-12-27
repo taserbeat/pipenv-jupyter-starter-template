@@ -7,6 +7,19 @@
       "label": "venv-shell",
       "type": "shell",
       "command": "pipenv shell",
+      "detail": "venv環境のターミナルを起動する"
+    },
+    {
+      "label": "jupyter-lab",
+      "type": "shell",
+      "command": "pipenv run jupyterlab",
+      "detail": "JupyterLabを起動する"
+    },
+    {
+      "label": "jupyter-notebook",
+      "type": "shell",
+      "command": "pipenv run notebook",
+      "detail": "Jupyter Notebookを起動する"
     },
   ]
 }
