@@ -8,7 +8,7 @@ jupyterlab = "jupyter lab"
 notebook = "jupyter notebook"
 
 [packages]
-jupyterlab = "==3.5.2"
+jupyterlab = "==4.0.12"
 
 [dev-packages]
 
