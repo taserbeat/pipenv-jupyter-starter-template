@@ -5,12 +5,11 @@ name = "pypi"
 
 [scripts]
 jupyterlab = "jupyter lab"
-notebook = "jupyter notebook"
 
 [packages]
-jupyterlab = "==4.0.12"
+jupyterlab = "==4.4.9"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8"
+python_version = "3.13"
