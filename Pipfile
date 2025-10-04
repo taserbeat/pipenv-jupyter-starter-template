@@ -5,7 +5,6 @@ name = "pypi"
 
 [scripts]
 jupyterlab = "jupyter lab"
-notebook = "jupyter notebook"
 
 [packages]
 jupyterlab = "==4.4.9"
